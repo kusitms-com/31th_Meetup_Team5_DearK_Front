@@ -8,3 +8,6 @@
 
 ## 💘 팀원 소개
 ![Slide 16_9 - 207](https://github.com/user-attachments/assets/e9192488-ff3a-44c1-9577-e391baf2cc50)
+
+## 🛠️ 시스템 아키텍처
+![아키텍처](https://github.com/user-attachments/assets/d6fd0075-d54a-4082-b00e-6ddb7af37f72)
